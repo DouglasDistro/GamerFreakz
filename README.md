@@ -3,7 +3,7 @@ Dit project is orgionaal gebouwd vanuit mijn school project, maar gebaseerd op e
 
 ### Installation
 
-For downloading GamerFreakz - Game Launcher, please redirect to the release page for more information. https://github.com/DouglasDistro/GamerFreakz/releases
+Voor het downloaden van GZ, wordt u omgeleid naar de releasepagina voor meer informatie https://github.com/DouglasDistro/GamerFreakz/releases
 
 | BUILD | PROGRESS |
 | ------ | ------ |
